@@ -1,6 +1,5 @@
 ### Olááá, pode me chamar de Edu!
 - 🔭 Procurando vagas em Front End
-- 🌱 Começando tecnólogo em Analise e Desenvolvimento de Sistemas
 - 💬 Ask me about ... anything!
 - ⚡ Fun facts: 🎮 GameAddict 🐱 CatLover
 <div >
